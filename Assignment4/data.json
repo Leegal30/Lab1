@@ -1,0 +1,27 @@
+[
+    {
+      "userId": "c37861f3-1b35-41a3-820a-05b3dbc568c6",
+      "name": "test1",
+      "email": "test1@gmail.com"
+    },
+    {
+      "userId": "05001aef-834d-4f3d-bb8f-8fda0ac03a02",
+      "name": "test3",
+      "email": "test3@gmail.com"
+    },
+    {
+      "userId": "6428c7b8-a109-4ca3-bddb-5af54b466f6e",
+      "name": "test4",
+      "email": "test4@gmail.com"
+    },
+    {
+      "userId": "ec93fbd5-bb2f-4a9c-b7e8-c76857754a4c",
+      "name": "updated_successfully",
+      "email": "test2@gmail.com"
+    },
+    {
+      "userId": "f6615f01-9ceb-487c-8e03-370ffcf8a0a0",
+      "name": "test3",
+      "email": "test3@gmail.com"
+    }
+]  
