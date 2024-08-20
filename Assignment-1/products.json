@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Blue Checked",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./prod1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Black full sleeve",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./prod2.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Black Tee-1",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./prod3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Black Tee-2",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./prod4.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "White Full Sleeve",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./prod5.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Black Tee-3",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./prod6.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Multi Color Shirt",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./prod7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Beige Full Sleeve",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./prod8.jpeg" } } }
+      }
+    }
+  ]
+}
